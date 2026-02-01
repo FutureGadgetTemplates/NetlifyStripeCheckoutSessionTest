@@ -5,6 +5,7 @@ const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
     'https://futuregadgetlabs.com',
     'https://futuregadgetcollections.netlify.app',
     'https://futuregadgetcollections.github.io',
+    'https://futuregadgettemplates.github.io/',
     'http://localhost:4000'
   ];
 
